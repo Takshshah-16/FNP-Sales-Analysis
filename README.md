@@ -113,7 +113,8 @@ The dashboard incorporates user-friendly filters, empowering the end user to ref
 ---
 
 ### **How to Use the Dashboard**
-1. Open the Excel file containing the dashboard.
+1. Open the Excel file containing the dashboard. [Download the Sales Analysis Dashboard](https://github.com/Takshshah-16/FNP-Sales-Analysis/raw/main/)
+
 2. Explore the pre-built charts and graphs for a holistic view of sales performance.
 3. Use the provided slicers to filter data based on your desired parameters, such as time periods, occasions, or product categories.
 4. Analyze insights from the metrics displayed to understand trends and performance.
