@@ -3,10 +3,13 @@
 ![image](https://github.com/user-attachments/assets/323364f2-f302-42a4-bea9-48f9d6161b7d)
 
 
-### **Objective**  
-The Sales Analysis Dashboard is designed to provide actionable insights into key performance metrics across products, occasions, cities, and categories, facilitating informed decision-making for maximizing revenue and operational efficiency.  
+### **Problem statement**
+FNP faces challenges in understanding its sales performance across diverse products, occasions, and regions, hindering its ability to make data-driven decisions for maximizing revenue and operational efficiency. With datasets encompassing customer demographics, product details, and order history, there was a need for a centralized system to visualize key metrics such as revenue trends, best-selling products, and geographical performance. Seasonal spikes during festivals like Diwali and Raksha Bandhan highlight opportunities for inventory optimization, while underperforming categories like Plants require targeted strategies for growth. To address these gaps, the FNP Sales Analysis Dashboard was developed using Excel, incorporating interactive filters, pivot tables, and visualizations to empower stakeholders with actionable insights and facilitate effective decision-making.
 
 ---
+
+### **Objective**
+The Sales Analysis Dashboard is designed to provide actionable insights into key performance metrics across products, occasions, cities, and categories, facilitating informed decision-making for maximizing revenue and operational efficiency.  
 
 ### **Datasets Used**
 The project utilizes the following datasets from FNP:
